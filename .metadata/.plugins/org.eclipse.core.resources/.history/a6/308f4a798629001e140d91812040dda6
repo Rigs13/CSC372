@@ -1,0 +1,5 @@
+package CTA1;
+
+public class CheckingAccount extends BankAccount {
+
+}

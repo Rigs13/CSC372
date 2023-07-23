@@ -1,0 +1,30 @@
+package CTA1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		// initialize instance of checking account
+		CheckingAccount testAccount = new CheckingAccount();
+		
+		// test of setters
+		testAccount.setFirstName("Semisi");
+		testAccount.setLastName("Rigby");
+		testAccount.setAccountID(000001);
+		testAccount.setInterestRate(3.0);
+		
+		// test deposit method
+		testAccount.deposit(100);
+		testAccount.displayAccount();
+
+		// withdrawal testing
+		testAccount.withdrawal(50);
+		testAccount.displayAccount();
+		
+		// overdraft testing
+		testAccount.withdrawal(100);
+		testAccount.displayAccount();
+		
+	}
+
+}
