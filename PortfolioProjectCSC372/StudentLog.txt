@@ -1,0 +1,36 @@
+
+Name: Asieli
+Address: 237 Circle
+GPA: 4.0
+
+
+
+Name: Kevin
+Address: 566
+GPA: 4.0
+
+
+
+Name: Pauline
+Address: 2344 East Street
+GPA: 3.5
+
+
+
+Name: Sabrina
+Address: 200 Ave
+GPA: 3.0
+
+
+
+Name: Salesi
+Address: 520 Ave
+GPA: 3.2
+
+
+
+Name: Semisi
+Address: 100 Street
+GPA: 3.4
+
+
